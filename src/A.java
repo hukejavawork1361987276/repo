@@ -10,6 +10,7 @@ public class A {
  int g=7;
  int k=0;
  int aaa=0;
- int m=1;
+ int m=0;
+
 
 }
