@@ -8,7 +8,8 @@ public class A {
  int f=5;
  int e=6;
  int g=7;
- int k=8;
+ int k=0;
  int aaa=0;
+ int m=1;
 
 }
