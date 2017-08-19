@@ -10,4 +10,5 @@ public class A {
  int g=7;
  int k=8;
  bb
+ aaa
 }
