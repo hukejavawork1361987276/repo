@@ -12,5 +12,5 @@ public class A {
 
  
  int aaa=1;
- fff
+
 }
