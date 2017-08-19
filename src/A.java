@@ -5,5 +5,5 @@ public class A {
  //c=3
  int c=3;
  int d=4;
- 
+ int e=6;
 }
