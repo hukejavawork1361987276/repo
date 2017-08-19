@@ -11,6 +11,6 @@ public class A {
  int k=8;
 
  
- int aaa=1;
+ int aaa=0;
 
 }
